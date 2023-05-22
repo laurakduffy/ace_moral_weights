@@ -1,0 +1,11 @@
+Species,Mean,5th-pct,50th-pct,95th-pct
+overall,0.449,0.07,0.326,0.911
+1: possession of nociceptors,6.982,3.0,8.0,8.0
+2: possession of integrative brain regions,8.736,5.0,10.0,10.0
+3: possession of neural pathways connecting nociceptiorrs to brain regions,10.594,5.0,10.0,15.0
+4: behavioural response modulated by chemical compounds,13.743,10.0,15.0,16.0
+5: evidence of motivational trade-offs,8.716,5.0,10.0,10.0
+6: flexible self-protective behaviour,4.017,1.0,6.0,6.0
+7: evidence of associative learning,24.199,16.0,26.0,32.0
+8: evidence that the animal values a putative analgesic/anaesthetic when injured,4.356,0.0,5.0,5.0
+9: evidence of affective states,19.385,10.0,20.0,25.0

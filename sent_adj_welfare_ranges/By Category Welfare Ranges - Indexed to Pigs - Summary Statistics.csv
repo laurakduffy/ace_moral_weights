@@ -1,0 +1,16 @@
+Category,Mean,5th-pct,50th-pct,95th-pct
+farmed cows,1.0,1.0,1.0,1.0
+farmed pigs,1.0,1.0,1.0,1.0
+farmed rabbits,1.0,1.0,1.0,1.0
+farmed animals for fur,1.0,1.0,1.0,1.0
+animals in labs,1.0,1.0,1.0,1.0
+companion animals,1.0,1.0,1.0,1.0
+working animals,1.0,1.0,1.0,1.0
+farmed chickens,0.645,0.317,0.636,1.031
+farmed animals for foie gras,0.645,0.317,0.636,1.031
+animals in entertainment,0.629,0.486,0.617,0.814
+wild vertebrates,0.241,0.031,0.188,0.634
+farmed fishes,0.241,0.031,0.188,0.634
+farmed animals,0.155,0.042,0.101,0.453
+farmed aquatic invertebrates,0.215,0.007,0.075,0.944
+farmed land invertebrates,0.024,0.0,0.005,0.079
